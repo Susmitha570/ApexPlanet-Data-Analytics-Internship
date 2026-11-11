@@ -57,52 +57,6 @@ Details, implementation, and deliverables will be added after completing the tas
 
 Details, implementation, and deliverables will be added after completing the task.
 
-### Additional Tasks
-
-Future internship assignments, analyses, and project deliverables will be documented here.
-
-## Repository Structure
-
-```text
-ApexPlanet-Data-Analytics-Internship/
-│
-├── README.md
-│
-├── Task-1-Data-Immersion-Wrangling/
-│   ├── ApexPlanet_Task1.ipynb
-│   ├── data_dictionary.md
-│   └── cleaned_dataset.csv
-│
-├── Task-2/
-│   └── (To be added)
-│
-├── Task-3/
-│   └── (To be added)
-│
-└── Documentation/
-    └── (Project reports and supporting files)
-```
-
-*The folder structure will be updated as new tasks are completed.*
-
-## Key Learning Outcomes
-
-- Practical experience with Python for data analytics.
-- Understanding dataset structures and data types.
-- Data quality assessment and preprocessing.
-- Handling missing values, duplicates, and inconsistencies.
-- Data transformation and validation.
-- Working with Jupyter Notebook and Google Colab.
-- Maintaining project documentation using GitHub.
-
-## Project Progress
-
-This repository serves as a record of my learning journey and practical contributions during the ApexPlanet Data Analytics Internship.
-
-I will continuously update this repository with source code, notebooks, datasets (where sharing is permitted), documentation, and project outcomes as I progress through the internship.
-
-
-
 ---
 
 *Learning, building, analyzing, and growing as a Data Analyst.*
