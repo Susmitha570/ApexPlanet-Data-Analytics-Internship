@@ -40,24 +40,14 @@ Throughout this internship, I aim to apply Python and data analytics concepts to
 This repository will be updated with the tasks and deliverables completed throughout the internship.
 
 ### Task 1: Data Immersion & Wrangling
-
-**Objective:** Understand the provided dataset, identify data quality issues, and prepare the data for further analysis.
-
-**Activities:**
-- Dataset loading and familiarization.
-- Data dictionary creation.
-- Data quality assessment.
-- Missing value identification and handling.
-- Duplicate record identification.
-- Outlier detection.
-- Data cleaning and transformation.
-- Preparation of an analysis-ready dataset.
-
-**Deliverables:**
-- Data dictionary.
-- Python data cleaning notebook/script.
-- Cleaned dataset.
-- Data cleaning documentation.
+- Project overview
+- Dataset details (1,000 rows and 12 columns)
+- Tools and libraries used
+- Data inspection and cleaning steps
+- Missing-value handling
+- Duplicate Order ID identification
+- Output file (cleaned_data.xlsx)
+- How to run the notebook
 
 ### Task 2: To Be Updated
 
